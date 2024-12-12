@@ -4,19 +4,19 @@
 - github: `happy-zhangbo`
 
 ## 个人简介
-- 工作经验: 1年
+- 工作经验: 2年
 - 技术栈: `Java` `Javascript` `Solidity`
 > 重要提示 请认真写自己的简介
-- 多年web2开发经验，之前研究以太坊, 做过合约.
+- 多年web2开发经验，之前研究以太坊, 现在做游戏.
 - 联系方式: tg: `https://t.me/BALL_RICH` 
 
 ## 任务
 
 ##   01 hello move  
-- [] Sui cli version:
-- [] Sui钱包截图: ![Sui钱包截图](./images/你的图片地址)
-- [] package id: 
-- [] package id 在 scan上的查看截图:![Scan截图](./images/你的图片地址)
+- [] Sui cli version: sui 1.39.0-3d8b6a864c11
+- [] Sui钱包截图: ![Sui钱包截图](./images/wallet.png)
+- [] package id: 0xe218d928508a4dcab8ef50bff12e2a999cb438f9484b426aa485ef4d516feb34
+- [] package id 在 scan上的查看截图:![Scan截图](./images/scan.png)
 
 ##   02 move coin
 - [] My Coin package id : 
